@@ -1,0 +1,12 @@
+
+Enterprise RAG Pipeline
+
+The Enterprise RAG Pipeline is designed to answer
+questions about company documents.
+
+It retrieves relevant information from documents
+using semantic search and keyword search.
+
+The system uses ChromaDB for vector storage,
+BM25 for keyword retrieval, and Ollama for
+local language model generation.

@@ -1,0 +1,17 @@
+Company Information
+
+The Enterprise RAG Pipeline is an internal company knowledge assistant.
+
+The system is designed to answer questions about company documents.
+
+Employees can use the system to retrieve relevant information from internal documents.
+
+The system combines semantic search and keyword search to find relevant information.
+
+ChromaDB is used for vector storage.
+
+BM25 is used for keyword-based retrieval.
+
+Ollama is used for local language model generation.
+
+The system is intended to provide answers based only on the information available in the company's documents.
