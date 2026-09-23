@@ -245,8 +245,8 @@ Production monitoring
 
 ## 🔗 Project Links
 
-- 📂 **GitHub Repository:** [Enterprise RAG Pipeline](https://github.com/prasad01-07/Enterprise-RAG-Pipeline)
-- 🌐 **Live Demo:** coming soong
+- 📁 **GitHub Repository:** [Enterprise RAG Pipeline](https://github.com/prasad01-07/Enterprise-RAG-Pipeline)
+- 🌐 **Live Demo:** Coming soon
 
 ## 👨‍💻 About the Author
 
@@ -255,6 +255,6 @@ Production monitoring
 🎓 B.Tech in Computer Science & Engineering – Artificial Intelligence & Machine Learning  
 🏫 Sri Indu Institute of Engineering and Technology  
 💡 Interested in Artificial Intelligence, Machine Learning, LLMs, RAG Systems and Generative AI  
-🚀 Currently building practical AI/ML projects and improving software development skills
+🚀 Currently building practical AI/ML projects and improving software development skills  
 
 ⭐ If you find this project useful, feel free to explore the repository.
